@@ -1,0 +1,2 @@
+[2026-11-22 22:16:50,467] 24 root - INFO - Enter the try block
+[2026-11-22 22:16:50,467] 28 root - ERROR - Error occurred in python script name [C:\Users\kal_EL\OneDrive\\u6587\u6863\DS,DA,ML,NLP,DL\ML\Network-Security\networksecurity\exception\exception.py] at line number [25] error message [division by zero]
