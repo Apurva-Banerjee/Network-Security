@@ -4,3 +4,4 @@ numpy
 pymongo
 boto3
 certifi
+scikit-learn

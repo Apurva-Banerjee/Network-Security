@@ -10,6 +10,7 @@ Requires-Dist: numpy
 Requires-Dist: pymongo
 Requires-Dist: boto3
 Requires-Dist: certifi
+Requires-Dist: scikit-learn
 Dynamic: author
 Dynamic: author-email
 Dynamic: license-file
