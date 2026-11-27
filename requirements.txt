@@ -5,6 +5,8 @@ pymongo
 boto3
 certifi
 scikit-learn
+pyaml
+dill
 
 
 # -e . 
