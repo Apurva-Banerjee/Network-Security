@@ -1,0 +1,22 @@
+channels:
+- conda-forge
+dependencies:
+- python=3.11.5
+- pip<=26.3
+- pip:
+  - mlflow==3.14.0
+  - dill==0.4.1
+  - numpy==2.4.4
+  - opt-einsum==3.4.0
+  - pandas==2.3.3
+  - polars==1.41.2
+  - psutil==7.2.2
+  - py==1.11.0
+  - pyarrow==24.0.0
+  - pytest==9.1.0
+  - scikit-learn==1.8.0
+  - scipy==1.17.1
+  - skops==0.14.0
+  - torch==2.11.0
+  - tqdm==4.67.3
+name: mlflow-env
